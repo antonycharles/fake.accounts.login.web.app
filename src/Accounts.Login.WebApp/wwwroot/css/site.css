@@ -18,5 +18,16 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+  min-height:100vh;
+}
+main{
+  min-height:100vh
+}
+
+.card-login{
+  background-color:#403D58;
+}
+
+.small, small{
+  font-size: .8em;
 }
